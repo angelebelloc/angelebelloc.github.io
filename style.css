@@ -1,0 +1,47 @@
+body {
+	background: #deedf0;
+	text-align: center;
+}
+
+h1 {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 80px;
+}
+
+h2, h3, h4 {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.color-green {
+  color: #458D2E;
+}
+
+.avatar {
+  width: 1500px;
+  height: 700px;
+  object-fit: cover;
+}
+
+.production {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+
