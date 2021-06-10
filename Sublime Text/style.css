@@ -1,0 +1,60 @@
+body {
+	background: #deedf0;
+	text-align: center;
+}
+
+h1 {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 80px;
+}
+
+h2, h3, h4 {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 20px;
+  text-align: left;
+}
+
+ul {
+  font-family: 'Stint Ultra Condensed', cursive;
+  font-size: 20px;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.color-green {
+  color: #458D2E;
+}
+
+.avatar {
+  width: 700px;
+  height: 700px;
+  object-fit: cover;
+}
+
+.production {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.cadre {
+  background: #E2F3DC;
+  border: 3px solid #C1E6B6;
+  margin: 20px 100px;
+  padding: 30px 70px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px grey;
+}
